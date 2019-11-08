@@ -1,0 +1,51 @@
+.home-page{
+    font-family: 'Roboto';
+}
+.content{
+    height: 100vh;
+    padding: 50px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    
+}
+.text{
+    font-size: 18px;
+    letter-spacing: 3px;
+}
+.title{
+    font-family: 'Roboto';
+    letter-spacing: 3px;
+}
+.a{
+    color: black;
+    font-weight: 700;
+}
+a:hover{
+    color: red;
+}
+.intro{
+    background: #9e808a;
+    color: white;
+
+}
+.education{
+    color: white;
+    background: #B3A580;  /* fallback for old browsers */
+
+}
+.experience{
+    color: white;
+    background: #9e808a;  /* fallback for old browsers */
+
+}
+.projects{
+    color: white;
+    background: #B3A580;  /* fallback for old browsers */
+    
+}
+.contacts{
+    color: white;
+    background: #9e808a;  /* fallback for old browsers */
+    
+}

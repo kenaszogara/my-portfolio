@@ -1,0 +1,22 @@
+My Portfolio:
+Home:
+-My Introduction: Hello, I'm Kenas, I wrote programs, that's what I do!
+-Education: I'm a candidate of Software Engineering in Tamkang University, Taiwan
+-My past experience: Machine Learning Research
+-My works:
+	and my team research of using Machine Learning Algorithm to Detect Fake News,
+        taking the form of a website with the help of Pythons and Flask. 
+	Simple personal project, creating a Todo Webapplication
+	Practice of making Point of Sale System Design, using JavaFX
+	 
+-Elaborate:
+My Works:
+ContactMe:
+
+Earn Skills / Skill Mastery!
+Experiences: > Research
+Projects: > Side-Projects, Personal Projects, Hackathon
+
+Goal to Get a Job in the Tech Industry !-----!
+Make 5 side/personal Projects => Create a Resume(Web Resume) => Create LinkedIn => Ready!
+
