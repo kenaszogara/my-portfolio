@@ -1,0 +1,79 @@
+.container{
+    margin-top: 4rem;
+}
+
+.title{
+    font-family: Montserrat;
+    font-size: 2.4rem;
+    color:#00FFFF;
+    margin-bottom: 0rem;
+}
+
+.box-content{
+    padding-bottom: 0.5rem;
+}
+
+.content{
+    font-family: Montserrat;
+    font-size:1rem;
+    color: #101311;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.content-img{
+    font-family: Montserrat Black;
+    font-size:1.5rem;
+    color: #101311;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60%;
+    width: 100%;
+}
+.content-link{
+    font-family: Montserrat;
+    font-size:1rem;
+    color: #101213;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 10%;
+    width: 100%;
+}
+
+.box{
+    justify-content: center;
+    background-color: #FFFFFF;
+    height: 10rem;
+    width: 20rem;
+}
+
+.not-visible{
+    font-family: Montserrat;
+    font-size: 2.4rem;
+    color:#36353D;
+    margin-bottom: 0rem;
+}
+
+/* override css */
+p{
+    margin-bottom: 0rem;
+}
+
+a {
+    color: #687d88;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+/* override bootstrap */
+.col{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}

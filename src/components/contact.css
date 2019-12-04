@@ -1,0 +1,28 @@
+h1{
+    font-family: Roboto Black;
+    font-size: 3rem;
+    color:#E3E6E4;
+    margin-bottom:5rem;
+}
+a {
+    color: #687d88;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.txt{
+    font-family: Roboto Black;
+    font-size: 1.5rem;
+    color:#E3E6E4;
+    margin-bottom:4rem;
+}
+
+.main{
+    text-align: center;
+    padding-top: 10rem;
+    
+}
+
+.icons{
+    padding: .5rem;
+}

@@ -1,51 +1,45 @@
-.home-page{
-    font-family: 'Roboto';
+.bg{
+    background: #36353D;
 }
-.content{
-    height: 100vh;
-    padding: 50px;
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: center;
-    
+.main-div{
+    margin-top: 14%;
+    margin-left: 14%;
+    margin-right: 14%;
+    margin-bottom: 10%;
 }
-.text{
-    font-size: 18px;
-    letter-spacing: 3px;
-}
-.title{
-    font-family: 'Roboto';
-    letter-spacing: 3px;
-}
-.a{
-    color: black;
-    font-weight: 700;
-}
-a:hover{
-    color: red;
-}
-.intro{
-    background: #9e808a;
-    color: white;
+
+.h1{
+    font-family: Roboto Black;
+    font-size: 50px;
+    color:#E3E6E4;
+    margin:0;
 
 }
-.education{
-    color: white;
-    background: #B3A580;  /* fallback for old browsers */
+.p{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 20px;
+    color: #E3E6E4;
+    padding-top: 1rem;
+    padding-bottom: 2.3rem;
+    margin:0;
+}
 
+/* Bootstrap overrides*/
+.btn-primary {
+    color: #E3E6E4;
+    background-color: #101311;
+    border: none;
+    box-shadow: 0 12px 16px 0 rgba(0,255,255,0.24), 0 17px 50px 0 rgba(0,255,255,0.19);
 }
-.experience{
-    color: white;
-    background: #9e808a;  /* fallback for old browsers */
-
+.btn-primary:hover {
+    background-color: rgb(0,255,255);
+    color: #101311;
 }
-.projects{
-    color: white;
-    background: #B3A580;  /* fallback for old browsers */
-    
-}
-.contacts{
-    color: white;
-    background: #9e808a;  /* fallback for old browsers */
-    
+.btn-group-lg>.btn, .btn-lg{
+    font-size: 1.3rem;
+    font-family: Fredoka One;
+    line-height: 2;
+    border-radius: 5rem;
+    padding: .5rem 2rem;
 }

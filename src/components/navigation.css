@@ -1,0 +1,24 @@
+/* Bootstrap overrides */
+.navbar-light .navbar-toggler-icon {
+    background-image: url("/src/assets/burger.svg");
+}
+
+.navbar-nav{
+    font-family: 'Courier New', Courier, monospace;
+    color: #E3E6E4;
+    font-size: 1.3rem;
+    margin-right: 1.5rem;
+}
+
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+}
+
+.navbar-expand .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
