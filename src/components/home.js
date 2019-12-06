@@ -32,7 +32,8 @@ class Home extends Component{
                     <p className="h1">I'm Kenas Zogara</p>
                     <p className="p">Software Engineer / Web Developer / UI Designer</p>
                     <Button 
-                        href="mailto: kenaszogara@live.com" 
+                        href="https://drive.google.com/file/d/1tf1EmIV_LaLE-DXyCZ37D9amrm622eeF/view?usp=sharing"
+                        target="blank" 
                         size="lg"
                         onClick={this.setRedirect}
                     >

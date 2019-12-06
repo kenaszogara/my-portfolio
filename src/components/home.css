@@ -2,7 +2,7 @@
     background: #36353D;
 }
 .main-div{
-    margin-top: 14%;
+    margin-top: 12%;
     margin-left: 14%;
     margin-right: 14%;
     margin-bottom: 10%;
@@ -10,7 +10,7 @@
 
 .h1{
     font-family: Roboto Black;
-    font-size: 50px;
+    font-size: 72px;
     color:#E3E6E4;
     margin:0;
 
@@ -18,7 +18,7 @@
 .p{
     font-family: Montserrat;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 22px;
     color: #E3E6E4;
     padding-top: 1rem;
     padding-bottom: 2.3rem;
@@ -42,4 +42,17 @@
     line-height: 2;
     border-radius: 5rem;
     padding: .5rem 2rem;
+}
+
+@media screen and (max-width: 765px) {
+    
+.h1{
+    font-size: 50px;
+
+}
+
+.p{
+    font-size: 20px;
+}
+
 }
