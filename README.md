@@ -10,7 +10,7 @@ Run Build:
 $ npm run build
 ```
 
-Deployment:
+Deployment: https://kenaszogara.github.io/my-portfolio/
 ```
 $ npm run predeploy
 $ npm run deploy
