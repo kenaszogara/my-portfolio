@@ -7,7 +7,7 @@ class Navigation extends Component{
   render(){
     return(
       <Navbar collapseOnSelect expand="lg" bg="#36353D" variant='dark' className="nav">
-        <Navbar.Brand href="/">
+        <Navbar.Brand href="#/">
             <img
                 src={logo}
                 width="49"
@@ -19,13 +19,13 @@ class Navigation extends Component{
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse>
           <Nav className="ml-auto">
-            <Nav.Link href="/">
+            <Nav.Link href="#/">
               Home
             </Nav.Link>
-            <Nav.Link href="/about">
+            <Nav.Link href="#/about">
               About
             </Nav.Link>
-            <Nav.Link href="/contact">
+            <Nav.Link href="#/contact">
               Contact Me
             </Nav.Link>
           </Nav>

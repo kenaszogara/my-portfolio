@@ -73,7 +73,7 @@ class About extends Component{
                       />
                     </div>
                     <div className="content-link">
-                      <a className="link" href="https://github.com/kenaszogara">Global Tech Mining Conference 2019</a>
+                      <a className="link" href="https://vpinstitute.org/wp-content/uploads/2019/10/GTM2019_paper_36.pdf">Global Tech Mining Conference 2019</a>
                     </div>
                   </div>
                 </div>
